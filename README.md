@@ -1,12 +1,9 @@
 ### Hi there 👋 
-> I am building Championfy - a play-to-earn gaming platform in South East Asia.
+> I am Saurabh Sharma, a Software Engineer & Dad, based in beautiful city of London.
 
 **More About Me**:
 - [Linkedin](https://www.linkedin.com/in/saursharma)
 
-**More About Championfy**:
-- [Website](https://www.championfy.com)
+![Saurabh's GitHub stats](https://github-readme-stats-teal-nine-78.vercel.app/api?username=saursharma&count_private=true&show_icons=true&theme=ambient_gradient&include_all_commits=true)
 
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saursharma&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saursharma&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-teal-nine-78.vercel.app/api/top-langs/?username=saursharma&layout=donut&theme=ambient_gradient)
